@@ -1,0 +1,159 @@
+body{
+    background-color: #ffd55e;
+}
+#titulo01{
+    padding: 15px 15px;
+    border-radius: 15px;
+    background-color: #fff3c6;
+    color: #fec500;
+    display: block;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(124, 123, 123);
+}
+#subtitulo01{
+    padding: 15px 15px;
+    border-radius: 15px;
+    background-color: #fff3c6;
+    color: #fec500;
+    display: block;
+    text-align: center;
+    box-shadow: 5px 5px 5px rgb(124, 123, 123);
+}
+.p1{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#legenda01{
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.pergunta{
+    padding: 20px;
+    text-align: justify;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 25px;
+    background-color: #fff3c6;
+}
+#central{
+    text-align: center;
+    text-decoration: underline;
+}
+.objetivos {
+    display: flex;         
+    gap: 10px;   
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;           
+}
+
+.objetivos p {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #216106;
+    padding: 15px 5px;
+    border-radius: 15px; 
+}
+.frasesqueinspiram {
+    display: flex;         
+    gap: 20px;  
+    padding-top: 20px;  
+    padding-bottom: 50px;
+    padding-left: 20px;      
+}
+
+.frasesqueinspiram p {
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #216106;
+    padding: 15px 15px;
+    border-radius: 15px; 
+    font-style: italic;
+}
+.frasesqueinspiram h1{
+    font-weight: bold;
+    color: #216106;
+    font-style: italic;
+}
+.imagemlaco{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #fff3c6;
+    border-radius: 50px;
+
+}
+.imagemlaco p{
+    padding: 50px 50px;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.destaque{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 1px 1px;
+}
+.listas {
+  display: flex;    
+  gap: 40px;                 
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.bloco {
+  flex: 1;
+  background-color: #fff3c6;
+  color: black;
+  border-radius: 5px;
+}
+.hhi{
+    text-align: center;
+    padding-top: 40px;
+}
+.container{
+    display: flex;
+    grid-gap: 30px;
+}
+.blococ{
+    background-color: #216106;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 25px;
+    padding: 15px 15px;
+    flex: 1;
+}
+.fotolaco{
+    width: 350px; 
+    height: auto;
+    border-radius: 15px;
+}
+.videoyt{
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 40px;
+}
+.pp1{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.hhi2{
+    text-align: center;
+    font-size: 25px;
+}
+.pp2{
+    text-align: center;
+    font-size: 20px; 
+}
+
+
+
